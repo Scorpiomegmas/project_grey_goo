@@ -24,7 +24,7 @@ public class ModBlocks {
 
 
     public static final RegistryObject<Block> TITANIUM_BLOCK = register("titanium_block", () ->
-            new Block(AbstractBlock.Properties.of(Material.METAL)
+            new Block(AbstractBlock.Properties.of(Material.HEAVY_METAL)
                 .strength(5, 30)
                 .harvestLevel(3)
                 .sound(SoundType.METAL)));
