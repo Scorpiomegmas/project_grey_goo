@@ -1,3 +1,7 @@
 {
-  "item.machina.titanium_ingot": "Titanium Ingot"
+  "item.machina.titanium_ingot": "Titanium Ingot",
+  "block.machina.titanium_block": "Titanium Block",
+  "block.machina.titanium_ore": "Titanium Ore",
+  "item.machina.titanium_chunk": "Titanium Chunk",
+  "itemGroup.machina": "Machina"
 }
